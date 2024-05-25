@@ -30,3 +30,19 @@ function palindrome(str)
         }
 }
 console.log(palindrome(str));
+
+// lcm of a number 
+
+let num1 = 3;
+let num2 = 4;
+
+function lcm(num1, num2)
+{
+    do 
+    {
+        
+    } 
+    while (i/num1 === 0 && i/num2 ===0);
+}
+
+// gcd of two numbers
