@@ -1,3 +1,12 @@
+//*************how to run the program***************
+
+// 1. gcc filename.c(functions.c) -o(output) name_of_output_file(funcitons)   this will compile the code 
+
+// 2. ./name_of_output_file(functions)
+
+//*********************************************************************************
+
+
 // function, pointer, structure and Union
 
 // A function in c is a set of statement that when called perform some specific task.
