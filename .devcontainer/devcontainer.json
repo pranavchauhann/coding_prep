@@ -17,7 +17,7 @@
 				"vscjava.vscode-java-pack"
 			],
 			"settings": {
-				"editor.fontSize": 16,
+				"editor.fontSize": 11,
 				"terminal.integrated.fontSize": 12,
 				"editor.wordWrap": "on"
 			}
